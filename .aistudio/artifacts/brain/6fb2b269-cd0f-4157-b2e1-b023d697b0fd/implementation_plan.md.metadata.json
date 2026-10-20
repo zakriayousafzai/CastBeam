@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for CastBeam, a local Wi-Fi media server and TV streaming app with an embedded HTTP engine, seekable byte-range streaming, TV Cinema web interface, and dual-mode remote playback controls.",
+  "updatedAt":  "2026-10-20T14:57:52.778916695Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
